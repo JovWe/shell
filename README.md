@@ -11,3 +11,11 @@
 wget https://raw.githubusercontent.com/jovwe/shell/main/rocky_1panel.sh && chmod +x rocky_1panel.sh && ./rocky_1panel.sh
 ```
 
+## add_docker_r.sh
+
+针对国内docker镜像拉取问题，添加了网上搜索的目前（2025年2月11日）可用的镜像库。
+
+```
+wget https://raw.githubusercontent.com/jovwe/shell/main/add_docker_r.sh && chmod +x add_docker_r.sh && ./add_docker_r.sh
+```
+
