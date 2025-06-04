@@ -26,3 +26,12 @@ wget https://raw.githubusercontent.com/jovwe/shell/main/add_docker_r.sh && chmod
 ```
 wget https://raw.githubusercontent.com/jovwe/shell/main/rocky_dns.sh && chmod +x rocky_dns.sh && ./rocky_dns.sh
 ```
+
+## add_swap.sh
+
+针对部分vps创建时没有swap分区写的一个脚本，以G为单位。
+
+```
+wget https://raw.githubusercontent.com/jovwe/shell/main/add_swap.sh && chmod +x add_swap.sh && ./add_swap.sh
+```
+
